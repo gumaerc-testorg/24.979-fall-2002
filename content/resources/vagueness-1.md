@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5c79e1be-5cb2-9df8-3952-ed8accba20f7
 resourcetype: Document
 title: vagueness.pdf
 uid: 566f0a1f-86d0-67f9-3a43-4686bf4f16ba

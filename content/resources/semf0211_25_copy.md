@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5c79e1be-5cb2-9df8-3952-ed8accba20f7
 resourcetype: Document
 title: SemF0211_25_copy.pdf
 uid: 9b245805-5727-f1a4-b0c9-208656a90987
