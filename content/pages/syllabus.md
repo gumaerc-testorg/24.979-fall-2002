@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -13,7 +15,7 @@ Lectures: 1 session / week, 3 hours / session
 
 **Course Description**
 
-Syllabus ([PDF]({{< baseurl >}}/resources/mitsemsyl))
+Syllabus ({{% resource_link 1b687154-efab-3b2d-3c82-db121c75e91e "PDF" %}})
 
 This seminar will investigate the expression of gradability, comparison and degree in natural language. The course will address the following major issues, though we may also include other topics according to the interests and direction of the class:
 

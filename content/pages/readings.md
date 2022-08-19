@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a bibliography of course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ Heim, Irene. "Notes on Comparatives and Related Matters." University of Texas, 
 
 Kamp, J. A. W. "Two Theories of Adjectives." In _Formal Semantics of Natural Language_. Edited by Edward Keenan. Cambridge: Cambridge University Press, 1975, pp. 123-155.
 
-Kennedy, Christopher. "The Grammar of Vagueness." Northwestern University, 2002. Ms. ([PDF]({{< baseurl >}}/resources/vagueness))
+Kennedy, Christopher. "The Grammar of Vagueness." Northwestern University, 2002. Ms. ({{% resource_link ebfebf9d-dca9-d41e-7bb5-f61b82df6a2a "PDF" %}})
 
 Kennedy, Christopher. "Polar Opposition and the Ontology of 'Degrees'." _Linguistics and Philosophy_ 24 (2001): 33-70.
 
