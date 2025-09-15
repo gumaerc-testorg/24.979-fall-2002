@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'The Semantics of Degree: Capturing Gradability'
-file: /courses/24-979-topics-in-semantics-fall-2002/4524d44e83472c6cf5b525545bc16df0_degsemmit1.pdf
+file: /ol-ocw-studio-app/courses/24-979-topics-in-semantics-fall-2002/4524d44e83472c6cf5b525545bc16df0_degsemmit1.pdf
+file_size: 110133
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

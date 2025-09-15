@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Topics in Semantics: The Semantics of Degree'
-file: /courses/24-979-topics-in-semantics-fall-2002/1b687154efab3b2d3c82db121c75e91e_mitsemsyl.pdf
+file: /ol-ocw-studio-app/courses/24-979-topics-in-semantics-fall-2002/1b687154efab3b2d3c82db121c75e91e_mitsemsyl.pdf
+file_size: 86993
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

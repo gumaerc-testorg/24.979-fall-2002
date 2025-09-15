@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: The Landscape of Vagueness
-file: /courses/24-979-topics-in-semantics-fall-2002/566f0a1f86d067f93a434686bf4f16ba_vagueness.pdf
+file: /ol-ocw-studio-app/courses/24-979-topics-in-semantics-fall-2002/566f0a1f86d067f93a434686bf4f16ba_vagueness.pdf
+file_size: 132190
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

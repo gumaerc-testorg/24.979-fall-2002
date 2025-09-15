@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to quantifiers in the than-clause,
   wrong predictions, and a variant of Larson's analysis.
-file: /courses/24-979-topics-in-semantics-fall-2002/606cca841e2b201b495405aea692f851_semf0211_4_doc.pdf
+file: /ol-ocw-studio-app/courses/24-979-topics-in-semantics-fall-2002/606cca841e2b201b495405aea692f851_semf0211_4_doc.pdf
+file_size: 129362
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
